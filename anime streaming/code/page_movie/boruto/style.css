@@ -1,0 +1,157 @@
+* {
+    font-family : poppins;
+ }
+
+ /* navbar */
+    .navbar {
+        background-color :  #192026;
+    }
+
+    .navbar-nav {
+        margin-left : 10%;
+    }
+
+    .navbar input{
+        align-items: center;
+        padding: 8px 100px 8px 18px;
+        gap: 10px;
+
+        width: 374.58px;
+        height: 48px;
+        background-color: #374151;
+        border-radius: 37px;
+        margin-left : 10px;
+    }
+ /* akhir navbar */
+
+ /* video */
+    .jumbotron {
+        background-color : #192026;
+        color : #fff;
+    }
+
+    .jumbotron h3{
+        padding-left: 110px;
+        padding-top: 40px;
+        font-weight: 600;
+        font-size: 32px;
+    }
+
+
+     .vidio {
+        width: 650px;
+        height: 472px;
+        margin-left: 100px;
+        margin-top : 20px;
+        background: #0F0F0F;
+        border-radius: 12px;
+    }
+
+    .jumbotron img {
+        padding-left : 30%;
+        padding-top : 20%;
+        kursor : pointer;
+    }
+
+    .card {
+        margin-left : 100px;
+        background-image : url('../../../asset/boruto.png');
+         background-size : cover;
+         background-repeat : no-repeat;
+         border-radius: 12px;
+         width: 270px;
+         height: 379px;
+         margin-top : 50px;
+    }
+
+    .list {
+        padding-top : 5%;
+        
+    }
+
+    ul li {
+        padding-left : 20%;
+        list-style : none;
+        font-weight: 600;
+        font-size: 20px;
+        margin-top : 5%;
+    }
+
+    ul li span {
+        font-weight: 400;
+        font-size: 16px;
+        color: #868686;
+    }
+
+    .jumbotron h5 {
+        padding-left : 20%;
+        padding-top : 15%;
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    .jumbotron p {
+        padding-top : 5px;
+        padding-left : 20%;
+        font-weight: 400;
+        font-size: 16px;
+        color: #868686;
+    }
+
+    .daftar-anime h4 {
+        font-weight: 600;
+        font-size: 32px;
+        padding-left : 150.5px;
+    }
+
+    .tsubasa {
+        width: 170px;
+        height: 229.02px;
+        background-image : url('../../../asset/captsu_card 1.png');
+        background-size : cover;
+        background-repeat : no-repeat;
+        margin-left : 150px;
+    }
+
+    .one-piece {
+        width: 170px;
+        height: 229.02px;
+        background-image : url('../../../asset/One-piece 1.png');
+        background-size : cover;
+        background-repeat : no-repeat;
+    }
+
+    .spy {
+        width: 170px;
+        height: 229.02px;
+        background-image : url('../../../asset/spy_card 1.png');
+        background-size : cover;
+        background-repeat : no-repeat;
+        margin-left : 150px;
+    }
+
+    .tomodachi {
+        width: 170px;
+        height: 229.02px;
+        background-image : url('../../../asset/tomodachi_card 1.png');
+        background-size : cover;
+        background-repeat : no-repeat;
+    }
+
+    .academia {
+        width: 170px;
+        height: 229.02px;
+        background-image : url('../../../asset/Boku no Hero Academia 1.png');
+        background-size : cover;
+        background-repeat : no-repeat;
+        margin-left : 150px;
+    }
+
+    .anime {
+        width: 170px;
+        height: 229.02px;
+        background-image : url('../../../asset/122297l 1.png');
+        background-size : cover;
+        background-repeat : no-repeat;
+    }
+ /* akhir video */
